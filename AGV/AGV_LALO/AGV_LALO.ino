@@ -1,4 +1,4 @@
-#define ForwardSensorPin  11
+#define ForwardSensorPin  11 // //
 #define BackwardSensorPin  7
 
 #define ForwardButtonPin  2
